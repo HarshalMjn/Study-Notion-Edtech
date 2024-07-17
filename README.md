@@ -1,6 +1,8 @@
-# StudyNotion Project
+# StudyNotion Project 
+https://study-notion-edtech-rho.vercel.app
 
-Welcome to the StudyNotion project! This repository houses the code for our ed-tech platform, designed to empower your coding journey.
+Welcome to the StudyNotion project! 
+This repository houses the code for our ed-tech platform, designed to empower your coding journey.
 
 ## Project Overview
 
